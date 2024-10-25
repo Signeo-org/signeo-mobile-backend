@@ -1,2 +1,2 @@
-# signeo-mobile
-Mobile app version of Signeo, enabling live subtitling on mobile devices for both sign language and text.
+# signeo-mobile-backend
+Backend service for the Signeo mobile application, handling core logic for live subtitling and API management.
